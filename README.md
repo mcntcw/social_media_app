@@ -1,16 +1,7 @@
-# social_media_app
+# Social Media App
+## This application let users to stay in touch and share memories, thoughts and moments with their friends (Flutter, Dart, BLoC, Firebase)
+![Mockup1](https://github.com/mcntcw/social_media_app/assets/143199755/6753f824-b94e-422d-a781-b5efcc9e32f2)
 
-A new Flutter project.
+![Mockup2](https://github.com/mcntcw/social_media_app/assets/143199755/697ce0b7-cf41-4745-beaf-037723878d9a)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Mockup3](https://github.com/mcntcw/social_media_app/assets/143199755/f2405106-7af0-47a7-b5d0-ba1e8851a40e)
